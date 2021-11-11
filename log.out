@@ -1,5 +1,5 @@
-+ mensaje='Test for bash'
-+ echo Test for bash
-Test for bash
++ mensaje='Final bash'
++ echo Final bash
+Final bash
 + cd /home/cristian/Descargas/Universidad/2021-2/Análisis_numérico/PROYECTO/Código/Numerical_Analysis
 + git add .
