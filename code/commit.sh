@@ -5,10 +5,10 @@
 exec > log.out 2>&1
 set -x
 
-
-FECHA=$(date)
+mensaje=$1
+echo $mensaje
 
 cd /home/cristian/Descargas/Universidad/2021-2/Análisis_numérico/PROYECTO/Código/Numerical_Analysis && git add .
-cd /home/cristian/Descargas/Universidad/2021-2/Análisis_numérico/PROYECTO/Código/Numerical_Analysis && git commit -m $1
+cd /home/cristian/Descargas/Universidad/2021-2/Análisis_numérico/PROYECTO/Código/Numerical_Analysis && git commit -m "$mensaje"
 cd /home/cristian/Descargas/Universidad/2021-2/Análisis_numérico/PROYECTO/Código/Numerical_Analysis && git pull
 cd /home/cristian/Descargas/Universidad/2021-2/Análisis_numérico/PROYECTO/Código/Numerical_Analysis && git push

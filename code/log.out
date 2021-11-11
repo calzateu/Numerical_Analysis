@@ -1,14 +1,5 @@
-++ date
-+ FECHA='Thu Nov 11 13:48:18 -05 2021'
++ mensaje='Test for bash'
++ echo Test for bash
+Test for bash
 + cd /home/cristian/Descargas/Universidad/2021-2/Análisis_numérico/PROYECTO/Código/Numerical_Analysis
 + git add .
-+ cd /home/cristian/Descargas/Universidad/2021-2/Análisis_numérico/PROYECTO/Código/Numerical_Analysis
-+ git commit -m Test for bash
-error: ruta especificada 'for' no concordó con ningún archivo(s) conocido por git
-error: ruta especificada 'bash' no concordó con ningún archivo(s) conocido por git
-+ cd /home/cristian/Descargas/Universidad/2021-2/Análisis_numérico/PROYECTO/Código/Numerical_Analysis
-+ git pull
-Ya está actualizado.
-+ cd /home/cristian/Descargas/Universidad/2021-2/Análisis_numérico/PROYECTO/Código/Numerical_Analysis
-+ git push
-Everything up-to-date
