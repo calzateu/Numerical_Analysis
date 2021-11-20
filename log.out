@@ -1,5 +1,5 @@
-+ mensaje=Unnecessary files  deleted
-+ echo Unnecessary files deleted
-Unnecessary files deleted
++ mensaje=Renamed dataset
++ echo Renamed dataset
+Renamed dataset
 + cd /home/cristian/Descargas/Universidad/2021-2/Análisis_numérico/PROYECTO/Código/Numerical_Analysis
 + git add .
