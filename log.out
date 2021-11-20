@@ -1,5 +1,5 @@
-+ mensaje=Cleaned code
-+ echo Cleaned code
-Cleaned code
++ mensaje=Unnecessary files  deleted
++ echo Unnecessary files deleted
+Unnecessary files deleted
 + cd /home/cristian/Descargas/Universidad/2021-2/Análisis_numérico/PROYECTO/Código/Numerical_Analysis
 + git add .
