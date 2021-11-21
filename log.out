@@ -1,5 +1,5 @@
-+ mensaje=More datasets
-+ echo More datasets
-More datasets
++ mensaje=data corrected
++ echo data corrected
+data corrected
 + cd /home/cristian/Descargas/Universidad/2021-2/Análisis_numérico/PROYECTO/Código/Numerical_Analysis
 + git add .
