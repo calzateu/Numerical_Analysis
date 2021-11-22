@@ -1,5 +1,5 @@
-+ mensaje=Added datasets
-+ echo Added datasets
-Added datasets
++ mensaje=Images for article
++ echo Images for article
+Images for article
 + cd /home/cristian/Descargas/Universidad/2021-2/Análisis_numérico/PROYECTO/Código/Numerical_Analysis
 + git add .
