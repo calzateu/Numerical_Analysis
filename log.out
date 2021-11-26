@@ -1,5 +1,5 @@
-+ mensaje=New dataset
-+ echo New dataset
-New dataset
++ mensaje=New datasets
++ echo New datasets
+New datasets
 + cd /home/cristian/Descargas/Universidad/2021-2/Análisis_numérico/PROYECTO/Código/Numerical_Analysis
 + git add .
