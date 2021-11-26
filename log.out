@@ -1,37 +1,5 @@
-+ mensaje=Images for article
-+ echo Images for article
-Images for article
++ mensaje=New dataset
++ echo New dataset
+New dataset
 + cd /home/cristian/Descargas/Universidad/2021-2/Análisis_numérico/PROYECTO/Código/Numerical_Analysis
 + git add .
-+ cd /home/cristian/Descargas/Universidad/2021-2/Análisis_numérico/PROYECTO/Código/Numerical_Analysis
-+ git commit -m Images for article
-[main c27a520] Images for article
- 17 files changed, 3 insertions(+), 3 deletions(-)
- create mode 100644 article/Images/Logistic_regression/Newton/test_the_train_Newton.png
- create mode 100644 article/Images/Logistic_regression/Newton/test_the_train_accuracy_Newton.png
- create mode 100644 article/Images/Logistic_regression/Newton/test_the_train_with_new_video_Newton.png
- create mode 100644 article/Images/Logistic_regression/Newton/test_the_train_with_new_video_accuracy_Newton.png
- create mode 100644 article/Images/Logistic_regression/SAG/test_the_train_SAG.png
- create mode 100644 article/Images/Logistic_regression/SAG/test_the_train_accuracy_SAG.png
- create mode 100644 article/Images/Logistic_regression/SAG/test_the_train_with_new_video_SAG.png
- create mode 100644 article/Images/Logistic_regression/SAG/test_the_train_with_new_video_accuracy_SAG.png
- create mode 100644 article/Images/Naive_Bayes/test_the_train.png
- create mode 100644 article/Images/Naive_Bayes/test_the_train_accuracy.png
- create mode 100644 article/Images/Naive_Bayes/test_the_train_with_new_video.png
- create mode 100644 article/Images/Naive_Bayes/test_the_train_with_new_video_accuracy.png
- create mode 100644 article/Images/SVM/test_the_train.png
- create mode 100644 article/Images/SVM/test_the_train_accuracy.png
- create mode 100644 article/Images/SVM/test_the_train_with_new_video.png
- create mode 100644 article/Images/SVM/test_the_train_with_new_video_accuracy.png
-+ cd /home/cristian/Descargas/Universidad/2021-2/Análisis_numérico/PROYECTO/Código/Numerical_Analysis
-+ git pull
-Desde github.com:calzateu/Numerical_Analysis
-   26a29f2..6633a7f  main       -> origin/main
-Merge made by the 'recursive' strategy.
- .../Logistic_regression_new_videos.ipynb           | 372 ++++++++++++--------
- code/Sentiment_analysis/Naive_bayes.ipynb          | 385 +++++++++++++--------
- 2 files changed, 482 insertions(+), 275 deletions(-)
-+ cd /home/cristian/Descargas/Universidad/2021-2/Análisis_numérico/PROYECTO/Código/Numerical_Analysis
-+ git push
-To github.com:calzateu/Numerical_Analysis.git
-   6633a7f..cc4eafe  main -> main
